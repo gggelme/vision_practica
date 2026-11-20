@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Datasets descargados de Kaggle (cientos de MB; se vuelven a bajar con kagglehub)
+datasets/kagglehub/
+
+# Datos descargables de los TPs (se vuelven a bajar)
+tp03/datos/
